@@ -3,7 +3,7 @@
 **A versioned toolbox for Claude Code — skills in one public repo, dropped into
 any project.**
 
-[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![License: Proprietary](https://img.shields.io/badge/license-proprietary-red.svg)](LICENSE)
 
 ## The skills
 
@@ -29,8 +29,9 @@ it yet.
 
 ### Option A — copy (simplest)
 
-Grab any skill folder and paste it into your project. The MIT license allows
-exactly this — take it, keep it, modify it.
+Grab any skill folder and paste it into your project. Using this toolbox
+requires the copyright holder's permission — see [License](#license) below;
+the mechanics here are the same for anyone who has it.
 
 ```
 <your-project>/.claude/skills/<skill-name>/   ← copied from aifx-finance/.claude/skills/<skill-name>/
@@ -130,4 +131,14 @@ broke and what to do about it.
 
 ## License
 
-[MIT](LICENSE) — use it, copy it, ship it.
+Proprietary — © 2026 Vasilică Grafu, all rights reserved. Receiving a copy
+grants no rights to it; use, copying, modification, and redistribution
+require the copyright holder's prior written permission. The full terms are
+in [LICENSE](LICENSE).
+
+One boundary is history's, not this file's: everything published **through
+version 13.2.0** carried the MIT license in its tree, and that grant is
+irrevocable for those versions — anyone holding 13.2.0 or earlier keeps
+their MIT rights to *that* code. The proprietary license governs everything
+released after it, which is why the release that introduces it is a MAJOR:
+a permission that existed stops existing.

@@ -106,6 +106,33 @@ output can never degrade into disconnected framework tables.
 Match the tier to the question asked; nobody who asked a question wants to pay
 for a case study.
 
+## Guided mode — the analysis as a conversation
+
+Enter when the user asks to be walked through a company, to explore it
+together, or to be helped to understand it — or accepts an offer of it.
+Guided mode is the pipeline with the user in the loop: the **Hands off**
+wiring becomes offers instead of silent transitions.
+
+1. **Open with a scan.** The business-model sketch, plus the fact pack for a
+   listed company; then a short map — the two or three most interesting
+   tensions or anomalies, offered as starting points. Fact-pack anomalies (a
+   margin the position should not earn, capital going somewhere odd, one
+   segment carrying the whole blend) are the best openers.
+2. **One module per step.** Lead with the finding in two or three sentences,
+   then offer two or three next moves ranked by what the finding makes
+   urgent — each one a module or a sharper question, phrased as what it
+   would settle. The user picks, redirects, or says "you choose"; on "you
+   choose", pick the highest-value thread and say why.
+3. **Keep the map visible.** Track which modules have run; when it matters,
+   say what remains uncovered and whether it could change the verdict.
+4. **Exit ramps at every step.** "Synthesize" jumps to
+   `synthesis/diagnosis.md` with what has been gathered, saying plainly
+   where the evidence is thin; "finish it" runs the remaining pipeline in
+   batch and delivers per `output-forms.md`.
+
+Evidence discipline is unchanged in this mode — every claim carries the same
+labels, and figures are still read, never recalled.
+
 ## Full analysis — the sequential pipeline
 
 Run in order, in one context. Each module ends with a **Hands off** block —

@@ -8,9 +8,12 @@ can be analyzed on its own; a full analysis runs the modules as a sequential
 pipeline and synthesizes a diagnosis, alternatives, a recommendation, and its
 falsification.
 
-This README is for a **human** installing and running the skill. How the
-skill *thinks* is documented for Claude in [SKILL.md](SKILL.md) — the hub
-that routes to everything else:
+This README is for a **human** installing and running the skill. How to
+*drive* it in conversation — what to type, guided exploration, steering a
+weak answer, troubleshooting — is [USER-MANUAL.md](USER-MANUAL.md), a
+phrasebook with one worked example per situation. How the skill *thinks* is
+documented for Claude in [SKILL.md](SKILL.md) — the hub that routes to
+everything else:
 
 ```
 SKILL.md          the hub: stance, evidence rules, depth tiers, pipeline, routing
